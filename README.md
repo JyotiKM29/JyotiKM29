@@ -46,6 +46,8 @@
 <a href="https://linkedin.com/in/JyotiKM"><img src="https://img.shields.io/badge/LinkedIn-Jyoti-blue"/></a>
 <a href="https://twitter.com/Jyoti41390683 "><img src = "https://img.shields.io/badge/Twitter-Jyoti-blue" /></a>
 <a href="https://github.com/JyotiKM29"><img src = "https://img.shields.io/badge/GitHub-JyotiKM29-lightgrey" /></a>
+ 
+ 
  ![Profile views](https://gpvc.arturio.dev/JyotiKm29)
 
 
