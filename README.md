@@ -48,7 +48,10 @@
 <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
-
+-----
+< p align ="center">
+![Profile views](https://gpvc.arturio.dev/JyotiKm29)
+</p>
 -----
 Credits: [Jyoti](https://github.com/JyotiKM29)
 
