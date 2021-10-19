@@ -12,7 +12,7 @@
     &nbsp;Fun Fact : I am Foodie and Love Traveling
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://github.com/JyotiKM29/Random-Repository/blob/main/new-game-ahagon-umiko-programming.gif" align="right"/>
+<img alt="Night Coding" height="180em" column ="250em" src="https://github.com/JyotiKM29/Random-Repository/blob/main/new-game-ahagon-umiko-programming.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -34,7 +34,7 @@
 
 <p align=none>
 <a href="https://github.com/JyotiKM29">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JyotiKM29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" column ="250em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JyotiKM29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JyotiKM29&layout=compact&langs_count=8&theme=algolia"/>
 </a> -->
 </p>
@@ -46,7 +46,6 @@
 <a href="https://linkedin.com/in/JyotiKM"><img src="https://img.shields.io/badge/LinkedIn-Jyoti-blue"/></a>
 <a href="https://twitter.com/Jyoti41390683 "><img src = "https://img.shields.io/badge/Twitter-Jyoti-blue" /></a>
 <a href="https://github.com/JyotiKM29"><img src = "https://img.shields.io/badge/GitHub-JyotiKM29-lightgrey" /></a>
------
 
 ![Profile views](https://gpvc.arturio.dev/JyotiKm29)
 -----
