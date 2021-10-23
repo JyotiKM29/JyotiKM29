@@ -4,13 +4,13 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently CS Student at ptu University a.\
+🎓 &nbsp;I'm currently CS Student at ptu University .\
 🌱 &nbsp;I'm on track for learning more about Web Devlopment.\
-    &nbsp;I'm Looking for Intership.\
+💼  &nbsp;I'm Looking for Intership.\
 ✍️ &nbsp;In my free time, learn Finance , reading Book ,listen podcast and songs.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
-    &nbsp;Fun Fact : I am Foodie and Love Traveling
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+⚡ &nbsp;Fun Fact : I am Foodie and Love Traveling
+<!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
 <img alt="Night Coding" height="200em" src="https://github.com/JyotiKM29/Random-Repository/blob/main/new-game-ahagon-umiko-programming.gif" align="right"/>
 
