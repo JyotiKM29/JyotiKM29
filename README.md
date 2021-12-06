@@ -10,7 +10,7 @@
 ✍️ &nbsp;In my free time learn Finance , reading Book ,listen podcast and songs.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ⚡ &nbsp;Fun Fact : I am Foodie and Love Traveling.\
-👩 &nbsp; Call me She / Her .\
+👩 &nbsp; Call me She / Her 
 
 <img alt="Night Coding" height="200em" src="https://github.com/JyotiKM29/Random-Repository/blob/main/new-game-ahagon-umiko-programming.gif" align="right"/>
 
