@@ -12,7 +12,7 @@
 ⚡ &nbsp;Fun Fact : I am Foodie and Love Traveling.\
 👩 &nbsp; Call me She / Her 
 
-<img alt="Night Coding" height="200em" src="https://github.com/JyotiKM29/Random-Repository/blob/main/new-game-ahagon-umiko-programming.gif" align="right"/>
+<img alt="Night Coding" height="200em" src="https://github.com/JyotiKM29/Random-Repository/blob/main/girl%20coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
