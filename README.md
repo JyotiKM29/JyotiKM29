@@ -7,7 +7,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently CS Student at I.K.Gujral Punjab Technical University .\
 🌱 &nbsp;I'm frontend developer .\
-💼  &nbsp;I'm Looking for Intership.\
+💼  &nbsp;I'm Looking for Full time Remote.\
 ✍️ &nbsp;In my free time learn Finance , reading Book ,listen podcast and songs.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ⚡ &nbsp;Fun Fact : I am Foodie and Love Traveling.\
