@@ -48,7 +48,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.jyotiKm.me"><img src="https://img.shields.io/badge/-JyotiKm-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://jyoti-km.vercel.app/"><img src="https://img.shields.io/badge/-JyotiKm-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jyotikmr/"><img src="https://img.shields.io/badge/LinkedIn-Jyoti-blue"/></a>
 <a href="https://twitter.com/jyotis_tweet "><img src = "https://img.shields.io/badge/Twitter-Jyoti-blue" /></a>
 <a href="https://github.com/JyotiKM29"><img src = "https://img.shields.io/badge/GitHub-JyotiKM29-lightgrey" /></a>
