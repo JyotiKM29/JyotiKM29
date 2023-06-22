@@ -55,7 +55,7 @@
 <a href="https://github.com/JyotiKM29"><img src = "https://img.shields.io/badge/GitHub-JyotiKM29-lightgrey" /></a>
  
  
- ![Profile views](https://gpvc.arturio.dev/JyotiKm29)
+
 [![Profile views](https://visitcount.itsvg.in/api?id=JyotiKM29&label=Profile%20Views&color=6&pretty=false)](https://visitcount.itsvg.in)
 
 -----
