@@ -56,7 +56,7 @@
  
  
  ![Profile views](https://gpvc.arturio.dev/JyotiKm29)
-
+[![Profile views](https://visitcount.itsvg.in/api?id=JyotiKM29&label=Profile%20Views&color=6&pretty=false)](https://visitcount.itsvg.in)
 
 -----
 Credits: [Jyoti](https://github.com/JyotiKM29)
