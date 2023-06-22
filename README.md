@@ -14,6 +14,8 @@
 ⚡ &nbsp;Fun Fact : I am Foodie and Love Traveling.\
 👩 &nbsp; Call me She / Her 
 
+              
+
 <img alt="Night Coding" height="200em" src="https://github.com/JyotiKM29/Random-Repository/blob/main/girl%20coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -30,7 +32,7 @@
 ## library and Frameworks
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 
 ## developer 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -39,12 +41,35 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align=none>
-<a href="https://github.com/JyotiKM29">
-  <img height="180em" column ="250em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JyotiKM29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JyotiKM29&layout=compact&langs_count=8&theme=algolia"/>
-</a> -->
-</p>
+
+
+<table align=none>
+  <tr>
+<a href="https://github.com/SurajjBhardwaj">
+  </tr>
+    <tr>
+       <td>
+      <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=jyotikm29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+ <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jyotikm29&layout=compact&langs_count=8&theme=algolia"/>
+</a> </td>
+</tr>
+</table>
+---
+
+### 🔥 &nbsp;GitHub Streaks
+<table>  
+  <tr>
+   <img height="360em"  src="https://github-readme-streak-stats.herokuapp.com/?user=jyotikm29&show_icons=true&theme=algolia&border=true"/>
+  </tr>
+</table>
+
+
+
+
+
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -60,5 +85,6 @@
 
 -----
 Credits: [Jyoti](https://github.com/JyotiKM29)
+
 
 Last Edited on: 19/10/2021
