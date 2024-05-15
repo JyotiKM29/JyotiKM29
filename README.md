@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 👩🏽‍💻  &nbsp; Portfolio Link : [jyoti KM](https://jyoti-km.vercel.app/).\
-📝  &nbsp; Resume Link : [Resume](https://drive.google.com/file/d/1iHnMbhn2LwsTZ8Q2XnNBe0k8AL9XeqCM/view?usp=sharing).\
+📝  &nbsp; Resume Link : [Resume]( https://shorturl.at/exyA2 ).\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm CSE Student at I.K.Gujral Punjab Technical University , Jalandhar , India.\
 🌱 &nbsp;I'm frontend developer .\
