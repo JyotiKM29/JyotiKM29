@@ -6,9 +6,7 @@
 👩🏽‍💻  &nbsp; Portfolio Link : [jyoti KM](https://jyoti-km.vercel.app/).\
 📝  &nbsp; Resume Link : [Resume]( https://shorturl.at/exyA2 ).\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm CSE Student at NIT Jalandhar , Jalandhar , India.\
 🌱 &nbsp;I'm frontend developer .\
-💼  &nbsp;I'm Looking for Full time Remote.\
 ✍️ &nbsp;In my free time learn Finance , reading Book ,listen podcast and songs.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ⚡ &nbsp;Fun Fact : I am Foodie and Love Traveling.\
