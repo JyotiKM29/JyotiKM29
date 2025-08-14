@@ -4,7 +4,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 👩🏽‍💻  &nbsp; Portfolio Link : [jyoti KM](https://jyoti-km.vercel.app/).\
-📝  &nbsp; Resume Link : [Resume]( https://shorturl.at/exyA2 ).\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm frontend developer .\
 ✍️ &nbsp;In my free time learn Finance , reading Book ,listen podcast and songs.\
