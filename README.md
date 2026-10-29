@@ -5,7 +5,7 @@
 
 👩🏽‍💻  &nbsp; Portfolio Link : [jyoti KM](https://jyoti-km.vercel.app/).\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm frontend Engineer .\
+🌱 &nbsp;I'm Software Engineer .\
 ✍️ &nbsp;In my free time learn Finance , reading Book ,listen podcast and songs.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ⚡ &nbsp;Fun Fact : I am Foodie and Love Traveling.\
